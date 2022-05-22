@@ -1,1 +1,2 @@
 debian/rgrep usr/bin
+debian/testing.sh usr/bin
